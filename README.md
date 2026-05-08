@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmed Tarek</h1>
+<h3 align="center">Flutter Developer from Egypt 🇪🇬</h3>
 
-<!--
-**ahmedtarekmo53-lab/ahmedtarekmo53-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Third-year student at Faculty of Computers & AI  
+- 📱 Flutter Developer passionate about building modern mobile apps  
+- 🔥 Currently improving my skills in BLoC & Clean Architecture  
+- 💼 Looking for Internship Opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- Flutter & Dart  
+- Firebase  
+- REST APIs  
+- BLoC  
+- Git & GitHub  
+
+---
+
+### 📱 Projects
+- 🎬 Movies App  
+- 📅 Islamic Evently App  
+
+---
+
+### 📫 Contact Me
+- 📧 ahmedtarekmo53@gmail.com
