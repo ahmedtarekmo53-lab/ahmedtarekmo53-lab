@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ahmed Tarek</h1>
-<h3 align="center">Flutter Developer | Mobile App Developer from Egypt 🇪🇬</h3>
+<h3 align="center">Software Engineer | Flutter Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <a href="https://github.com/ahmedtarekmo53-lab">
-    <img src="https://komarev.com/ghpvc/?username=ahmedtarekmo53-lab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ahmedtarekmo53-lab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Third-year student at the Faculty of Computers, Information and Artificial Intelligence.
-* 📱 Flutter Developer passionate about building modern, user-friendly mobile applications.
-* 🔥 Currently improving my skills in **Flutter, Dart, BLoC, and Clean Architecture**.
-* 💡 Interested in building scalable applications with clean and maintainable code.
-* 💼 Actively looking for **Flutter Internship and Junior Developer opportunities**.
+* 🎓 Fourth-year student at the Faculty of Computers, Information and Artificial Intelligence.
+* 💻 Software Engineer passionate about building modern, scalable, and user-friendly applications.
+* 📱 Specialized in Mobile App Development using Flutter and Dart.
+* 🔥 Currently improving my skills in BLoC, Clean Architecture, and software design principles.
+* 💡 Interested in writing clean, maintainable, and efficient code.
+* 💼 Open to Software Engineering and Flutter Developer Internship opportunities.
 * 🇪🇬 Based in Egypt.
 
 ---
@@ -32,7 +31,7 @@
 * **State Management:** BLoC
 * **Backend & Database:** Firebase, Cloud Firestore
 * **API Integration:** REST APIs
-* **Architecture:** Clean Architecture (Learning)
+* **Architecture:** Clean Architecture
 * **Version Control:** Git & GitHub
 * **IDE:** Android Studio, VS Code
 
@@ -42,7 +41,7 @@
 
 ### 🎬 Movies App
 
-A movie application built with Flutter, featuring movie browsing and details.
+A movie application built with Flutter, featuring movie browsing and movie details.
 
 ### 📅 Islamic Evently App
 
